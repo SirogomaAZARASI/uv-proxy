@@ -1,0 +1,9 @@
+{
+  "name": "uv-proxy",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.2",
+    "@tomphttp/bare-server-node": "*",
+    "@titaniumnetwork-dev/ultraviolet": "*"
+  }
+}
